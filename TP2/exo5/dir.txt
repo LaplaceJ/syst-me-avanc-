@@ -1,0 +1,6 @@
+total 24
+drwxr-xr-x 2 msauvage gis4 4096 oct.   3 08:38 .
+drwxr-xr-x 9 msauvage gis4 4096 oct.   3 08:08 ..
+-rwxr-x--- 1 msauvage gis4    0 oct.   3 08:38 dir.txt
+-rwxr-xr-x 1 msauvage gis4 9096 oct.   3 08:38 Exo5
+-rw-r--r-- 1 msauvage gis4  899 oct.   3 08:38 Exo5.c
